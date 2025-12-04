@@ -14,11 +14,11 @@ The script does not depend on any packages.
 
 You can edit the parameters in the `config.json` file:
 
-* textColor
-* backgroundColor
-* position
-* duration
-* fontSize
+* `textColor`
+* `backgroundColor`
+* `position`
+* `duration`
+* `fontSize`
 
 ## Usage
 
